@@ -6,7 +6,7 @@
 
 -  🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL
 - 📫 How to reach me: kellyrdrmartins@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact Oneye: 
 
 
 <p align="left">
